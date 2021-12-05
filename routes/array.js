@@ -9,7 +9,6 @@ api.get('/', (req, res) => {
     console.log('array');
 })
 
-
 //La méthode map() crée un nouveau tableau avec les résultats de l'appel d'une fonction fournie sur chaque élément du tableau appelant.
 
 // multiplie les chiffres passé par 2

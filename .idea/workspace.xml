@@ -26,7 +26,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="14.18.0" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="ssh.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -35,6 +35,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\antoi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9488ade3-c70c-46d6-af36-1aae40b9a789" name="Default Changelist" comment="" />
@@ -42,11 +45,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638730971130</updated>
-      <workItem from="1638730972165" duration="10417000" />
+      <workItem from="1638730972165" duration="12061000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="354" key="#Deployment" timestamp="1638746314271">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="872" y="354" key="#Deployment/0.0.2560.1392@0.0.2560.1392" timestamp="1638746314271" />
+    <state x="1059" y="461" key="FileChooserDialogImpl" timestamp="1638747278544">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1059" y="461" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1638747278544" />
+    <state x="781" y="341" key="SettingsEditor" timestamp="1638747847512">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="781" y="341" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1638747847512" />
   </component>
 </project>
